@@ -4,3 +4,5 @@ Documentation for the collaborative revenue sharing feature proposed for Hic Et 
 
 
 ![splash](images/hen-collab-splash.png)
+
+See the Wiki for (not yet) detailed documentation.
