@@ -21,4 +21,4 @@ This UI fork allows the picking of an existing collab contract when minting an O
 See the [Wiki](../../wiki) for further (not yet) detailed documentation.
 
 ![splash](images/hen-collab-splash.png)
-
+Credit: [@shamanovitch](https://twitter.com/Shamanovitch/status/1396221593953742849)
